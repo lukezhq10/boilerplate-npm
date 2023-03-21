@@ -1,5 +1,6 @@
-{	"author": "Luke Zhang",
-	"name": "fcc-learn-npm-package-json",
+{	"name": "fcc-learn-npm-package-json",
+	"author": "Luke Zhang",
+	"description": "A project that does something awesome",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
